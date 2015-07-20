@@ -7,6 +7,7 @@ import java.util.Map.Entry;
 
 /**
  * Greetings utility class.
+ * It defines greetings in different languages.
  * @author mmiele
  *
  */
