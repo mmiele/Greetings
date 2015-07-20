@@ -2,6 +2,11 @@ package com.acloudysky.greetings;
 
 import com.acloudysky.greetings.Greetings;
 
+/**
+ * Main class.
+ * @author mmiele
+ *
+ */
 public class Helloworld {
 
 	public static void main(String[] args) {

@@ -5,6 +5,11 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Map.Entry;
 
+/**
+ * Greetings utility class.
+ * @author mmiele
+ *
+ */
 public class Greetings {
 	
 Map<String, String> table = new Hashtable<String, String>();
